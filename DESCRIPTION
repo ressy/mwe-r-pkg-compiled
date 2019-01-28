@@ -1,0 +1,7 @@
+Package: packageexample
+Version: 0.0.1
+Title: Package Example
+Description: Package Example
+License: GPL-3
+Author: Jesse Connell <ancon@upenn.edu>
+Maintainer: Jesse Connell <ancon@upenn.edu>
